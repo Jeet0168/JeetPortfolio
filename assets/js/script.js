@@ -1,6 +1,6 @@
 'use strict';
 
-
+console.log("Hello Jeet!")
 
 // element toggle function
 const elementToggleFunc = function(elem) {
